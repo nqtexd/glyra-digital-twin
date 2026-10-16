@@ -76,7 +76,7 @@ The tests verify Python/JavaScript inference parity, exclusion of future informa
 - [Demo transcript](submission/Demo-Transcript.md)
 - [Chapter timings](submission/Demo-Chapters.json)
 
-**Unlisted YouTube link: pending upload.** The Digital Twin submission form requires this link; a repository MP4 alone is not represented as satisfying that requirement.
+**[Unlisted YouTube demonstration](https://youtu.be/yjmeaV-YoaI)** — uploaded 16 October 2026; YouTube displays 20:01 and confirms unlisted visibility. The video is a narrated presentation with screenshots of the working prototype.
 
 ## Data contract and limitations
 
