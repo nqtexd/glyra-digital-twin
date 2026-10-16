@@ -1,0 +1,86 @@
+[
+  {
+    "index": 1,
+    "title": "Introduction",
+    "words": 222,
+    "startSeconds": 0,
+    "durationSeconds": 97.64
+  },
+  {
+    "index": 2,
+    "title": "Problem and scope",
+    "words": 234,
+    "startSeconds": 97.64,
+    "durationSeconds": 92.02
+  },
+  {
+    "index": 3,
+    "title": "Dashboard walkthrough",
+    "words": 237,
+    "startSeconds": 189.66,
+    "durationSeconds": 98.45
+  },
+  {
+    "index": 4,
+    "title": "Architecture",
+    "words": 232,
+    "startSeconds": 288.11,
+    "durationSeconds": 99.78
+  },
+  {
+    "index": 5,
+    "title": "Generator and training",
+    "words": 244,
+    "startSeconds": 387.89,
+    "durationSeconds": 105.13
+  },
+  {
+    "index": 6,
+    "title": "Evaluation",
+    "words": 250,
+    "startSeconds": 493.02,
+    "durationSeconds": 99.83
+  },
+  {
+    "index": 7,
+    "title": "Data provenance and import",
+    "words": 245,
+    "startSeconds": 592.85,
+    "durationSeconds": 100.58
+  },
+  {
+    "index": 8,
+    "title": "Withholding a forecast",
+    "words": 236,
+    "startSeconds": 693.43,
+    "durationSeconds": 97.81
+  },
+  {
+    "index": 9,
+    "title": "Scenario comparison",
+    "words": 236,
+    "startSeconds": 791.24,
+    "durationSeconds": 97.21
+  },
+  {
+    "index": 10,
+    "title": "Limitations and failure cases",
+    "words": 236,
+    "startSeconds": 888.45,
+    "durationSeconds": 101.77
+  },
+  {
+    "index": 11,
+    "title": "Impact and roadmap",
+    "words": 236,
+    "startSeconds": 990.22,
+    "durationSeconds": 102.27
+  },
+  {
+    "index": 12,
+    "title": "Reproducibility and closing",
+    "words": 239,
+    "startSeconds": 1092.49,
+    "durationSeconds": 107.51
+  }
+]
